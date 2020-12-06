@@ -1,9 +1,9 @@
-package tests1.helpers;
+package tests2.helpers;
 
 import org.openqa.selenium.By;
-import tests1.ApplicationManager;
-import tests1.models.Mail;
-import tests1.models.SuperMail;
+import tests2.ApplicationManager;
+import tests2.models.Mail;
+import tests2.models.SuperMail;
 
 public class MailCreationHelper extends HelperBase {
     public MailCreationHelper(ApplicationManager applicationManager) {

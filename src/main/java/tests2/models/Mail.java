@@ -1,4 +1,4 @@
-package tests1.models;
+package tests2.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
